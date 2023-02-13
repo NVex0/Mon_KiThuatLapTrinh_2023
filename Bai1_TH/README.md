@@ -1,1 +1,3 @@
-Code Socket TCP
+Code Socket TCP.
+
+Create a mini game init.
