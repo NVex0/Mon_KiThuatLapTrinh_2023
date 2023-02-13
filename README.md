@@ -1,2 +1,2 @@
-# K-_Thu-t_L-p_Tr-nh
+# readme
 nhét code lên đây :D
