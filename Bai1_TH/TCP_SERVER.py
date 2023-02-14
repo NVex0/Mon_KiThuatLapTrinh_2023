@@ -17,6 +17,7 @@ def whichbox(option):
 client, addr =  s.accept()
 msg = "----K0$_M@ Challenge----\n"
 client.send(msg.encode("utf8"))
+#Phần giao tiếp với Client.
 try:
     while True:
         client.send("""Choose one? (type "1", "2", "3", "4")\n1. First Box.\n2. Second Box.\n3. Third Box.\n4. Quit Game.\n\n""".encode("utf8"))
